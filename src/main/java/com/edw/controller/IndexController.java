@@ -19,7 +19,7 @@ public class IndexController {
             put("success", true);
             put("hello", "world");
             put("new-message", "adding a new msg");
-            put("My-name", "Fabrice bro")
+            put("My-name", "Fabrice bro");
         }};
     }
 }
